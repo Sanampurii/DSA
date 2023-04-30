@@ -1,6 +1,7 @@
 package BinarySearch.problems;
 
 // 852. Peak Index in a Mountain Array https://leetcode.com/problems/peak-index-in-a-mountain-array/
+//  This solution wont work for duplicate element array
 public class MountainArray {
     public static void main(String[] args) {
         int[] arr = {0,10,11,5,2,1};
